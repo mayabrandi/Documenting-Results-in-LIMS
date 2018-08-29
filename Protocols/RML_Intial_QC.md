@@ -15,10 +15,9 @@ Proceed to theNEXT STEP.
 
 
 This step is pre set to only allow samples from the same plate to be handled at the same time. What this means is that a sample placed in A1 in library preparation plate will be assumed to be placed in A1 in the qPCR calculation, Sample placed in B1 in library preparation plate will be assumed to be placed in B1 in the qPCR calculation and so on.
-
 If samples are in a tube format there is no such pre set and samples from different library preps can be mixed.
 
-
+<p align="center"><img src="../img/RML_Intial_QC/1.png"></p>
 
 
 
