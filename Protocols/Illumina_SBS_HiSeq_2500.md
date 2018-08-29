@@ -17,6 +17,8 @@ To calculate the EB volume and the individual sample volume press Prepare for Po
 Make Placement Map generates a placement map :)
 When done press NEXT STEPS.
 
+<p align="center"><img height="600" width="800" src="img/Illumina_SBS_HiSeq_2500/1.png"></p>
+
 
 
 
