@@ -10,6 +10,8 @@ Fill in the fragment size of each sample (2)
 Press the Assign QC flag button to get the QC flags assigned (3)
 Select NEXT STEP in upper right corner
 
+<p align="center"><img src="../img/Library_validation_QC/1.png"></p>
+
 ## Step 2 qPCR QC (Library Validation)
 
 
@@ -17,8 +19,8 @@ This step is pre set to only allow samples from the same plate to be handled at 
 
 If samples are in a tube format there is no such pre set and samples from different library preps can be mixed.
 
-<p align="center"><img src="../img/Library_validation_QC/1.png"></p>
 
+<p align="center"><img src="../img/Library_validation_QC/2.png"></p>
 
 
 
