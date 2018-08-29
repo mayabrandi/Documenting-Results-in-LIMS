@@ -20,7 +20,6 @@ This step is pre set to only allow samples from the same plate to be handled at 
 If samples are in a tube format there is no such pre set and samples from different library preps can be mixed.
 
 
-<p align="center"><img src="../img/Library_validation_QC/3.png"></p>
 
 
 
@@ -76,3 +75,6 @@ Concentration (nM) is copied from CG002 - qPCR QC (Library Validation).
 Press the blue button Report Library QC to sample. This is important to remember so the results are reported to the submitted sample and can be used in following protocols.
 Press the green NEXT STEPS in the upper right corner
 If the sample has a red flag and needs to be reprepped chose "Rework from an earlier step". This can only be done by clicking the drop down menu of individual samples.
+
+<p align="center"><img src="../img/Library_validation_QC/3.png"></p>
+
