@@ -20,7 +20,7 @@ This step is pre set to only allow samples from the same plate to be handled at 
 If samples are in a tube format there is no such pre set and samples from different library preps can be mixed.
 
 
-<p align="center"><img src="../img/Library_validation_QC/2.png"></p>
+<p align="center"><img src="../img/Library_validation_QC/3.png"></p>
 
 
 
@@ -38,7 +38,7 @@ If a sample has a red flag select still proceed with the sample to the NEXT STEP
 ## Step 3 Qubit QC
 
 
-
+<p align="center"><img src="../img/Library_validation_QC/2.png"></p>
 
 
 
