@@ -17,6 +17,7 @@ This step is pre set to only allow samples from the same plate to be handled at 
 
 If samples are in a tube format there is no such pre set and samples from different library preps can be mixed.
 
+<p align="center"><img src="../img/Library_validation_QC/1.png"></p>
 
 
 
